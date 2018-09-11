@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/venveo/venveo-loader/issues"
   },
-  "homepage": "https://github.com/venveo/venveo-loader#readme"
+  "homepage": "https://github.com/venveo/venveo-loader#readme",
+  "devDependencies": {
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.10",
+    "mustache": "^2.3.2"
+  }
 }

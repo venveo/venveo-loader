@@ -1,7 +1,6 @@
 'use strict'
 import Mustache from 'mustache'
 import _ from 'lodash'
-import 'axios'
 import $ from 'jquery'
 
 import * as events from './events'
@@ -211,7 +210,6 @@ class Core {
         const $elements = _.map(items.data, (item,i) => {
             return $(this._renderItem(item,i))
         })
-        console.log('loader: $elements ',$elements)
 
         if (itemPattern) {
             let containers = []
