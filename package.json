@@ -1,0 +1,26 @@
+{
+  "name": "venveo-loader",
+  "version": "0.1.0",
+  "description": "Async Loader for CraftCMS and ElementAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/venveo/venveo-loader.git"
+  },
+  "keywords": [
+    "craftcms",
+    "elementapi",
+    "ajax",
+    "api",
+    "craft"
+  ],
+  "author": "Venveo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/venveo/venveo-loader/issues"
+  },
+  "homepage": "https://github.com/venveo/venveo-loader#readme"
+}
